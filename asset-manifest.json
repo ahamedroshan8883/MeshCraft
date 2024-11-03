@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.d8676065.css",
-    "main.js": "/static/js/main.5dbe7415.js",
-    "static/js/453.30e0552f.chunk.js": "/static/js/453.30e0552f.chunk.js",
-    "static/media/Blender.png": "/static/media/Blender.d11436acde200fa5e2c2.png",
-    "static/media/Santer.png": "/static/media/Santer.906830a7229ebc9df410.png",
-    "static/media/2-removebg-preview.png": "/static/media/2-removebg-preview.edb0c711c5a96edfaed2.png",
-    "static/media/Maya.png": "/static/media/Maya.5383907a4bc033995907.png",
-    "static/media/6-removebg-preview.png": "/static/media/6-removebg-preview.ea6965a40b32309817a2.png",
-    "static/media/1-removebg-preview.png": "/static/media/1-removebg-preview.d3a200569fb63d9fdfbd.png",
-    "static/media/4-removebg-preview.png": "/static/media/4-removebg-preview.1eb60f36ccae0650f91a.png",
-    "static/media/3-removebg-preview.png": "/static/media/3-removebg-preview.2fe39be97f0cb888a972.png",
-    "static/media/5-removebg-preview.png": "/static/media/5-removebg-preview.0e6f9fb3146e09c4d1d5.png",
-    "static/media/UnrealEngine.png": "/static/media/UnrealEngine.e42f0a63fecfcba409cd.png",
-    "static/media/Unity3D.png": "/static/media/Unity3D.0afbb1a6657197403235.png",
-    "static/media/Horizontalwithbgsmall.png": "/static/media/Horizontalwithbgsmall.7b9fd5d990b76841dd1d.png",
-    "index.html": "/index.html",
-    "main.d8676065.css.map": "/static/css/main.d8676065.css.map",
-    "main.5dbe7415.js.map": "/static/js/main.5dbe7415.js.map",
-    "453.30e0552f.chunk.js.map": "/static/js/453.30e0552f.chunk.js.map"
+    "main.css": "/meshcraft/static/css/main.d8676065.css",
+    "main.js": "/meshcraft/static/js/main.959e7a67.js",
+    "static/js/453.30e0552f.chunk.js": "/meshcraft/static/js/453.30e0552f.chunk.js",
+    "static/media/Blender.png": "/meshcraft/static/media/Blender.d11436acde200fa5e2c2.png",
+    "static/media/Santer.png": "/meshcraft/static/media/Santer.906830a7229ebc9df410.png",
+    "static/media/2-removebg-preview.png": "/meshcraft/static/media/2-removebg-preview.edb0c711c5a96edfaed2.png",
+    "static/media/Maya.png": "/meshcraft/static/media/Maya.5383907a4bc033995907.png",
+    "static/media/6-removebg-preview.png": "/meshcraft/static/media/6-removebg-preview.ea6965a40b32309817a2.png",
+    "static/media/1-removebg-preview.png": "/meshcraft/static/media/1-removebg-preview.d3a200569fb63d9fdfbd.png",
+    "static/media/4-removebg-preview.png": "/meshcraft/static/media/4-removebg-preview.1eb60f36ccae0650f91a.png",
+    "static/media/3-removebg-preview.png": "/meshcraft/static/media/3-removebg-preview.2fe39be97f0cb888a972.png",
+    "static/media/5-removebg-preview.png": "/meshcraft/static/media/5-removebg-preview.0e6f9fb3146e09c4d1d5.png",
+    "static/media/UnrealEngine.png": "/meshcraft/static/media/UnrealEngine.e42f0a63fecfcba409cd.png",
+    "static/media/Unity3D.png": "/meshcraft/static/media/Unity3D.0afbb1a6657197403235.png",
+    "static/media/Horizontalwithbgsmall.png": "/meshcraft/static/media/Horizontalwithbgsmall.7b9fd5d990b76841dd1d.png",
+    "index.html": "/meshcraft/index.html",
+    "main.d8676065.css.map": "/meshcraft/static/css/main.d8676065.css.map",
+    "main.959e7a67.js.map": "/meshcraft/static/js/main.959e7a67.js.map",
+    "453.30e0552f.chunk.js.map": "/meshcraft/static/js/453.30e0552f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d8676065.css",
-    "static/js/main.5dbe7415.js"
+    "static/js/main.959e7a67.js"
   ]
 }
