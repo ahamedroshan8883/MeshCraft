@@ -1,0 +1,62 @@
+/* #homePage {  */
+    /* background: url('../../assets/background7.jpg') no-repeat center center fixed; */
+    /* background-size: cover;   */
+   /* Background image */
+    /* background-size: cover; */
+    /* background-position: center; */
+    /* display: flex; */
+    /* flex-direction: column;  */
+    /* Aligns items vertically */
+     /* align-items: center; */
+    /* Centers items horizontally */
+    /* justify-content: center; Centers items vertically */
+    /* min-height: 70vh; Ensures it takes the full height of the viewport  */
+    /* background-image: radial-gradient(circle at 0% 0%, rgb(255, 0, 0), rgb(255, 143, 0), rgb(0, 0, 0)) */
+    /* } */
+  
+  /* Stylings for software logo part */
+/* #software-logos{
+  background-color: white;
+  height: 100vh;
+} */
+/* .model-type-icons{
+  box-sizing: border-box;
+  text-align: center;
+  padding: 20px 10px;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-direction: row;
+  flex-wrap: wrap;
+} */
+/* .software-det:hover{
+  cursor: pointer;
+  filter: brightness(0.50);
+} */
+/* .model-type-icons p{
+  width: 70px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: small;
+} */
+.box-area>li:nth-child(1){
+  animation-delay: 0s;
+}
+.box-area>li:nth-child(2){
+  animation-delay: 1.5s;
+  animation-duration: 10s;
+}
+.box-area>li:nth-child(3){
+  animation-delay: 1.5s;
+  animation-duration: 5.5s;
+}
+.box-area>li:nth-child(4){
+  animation-delay: 0s;
+  animation-duration: 15s;
+}
+.box-area>li:nth-child(5){
+  animation-delay: 0s;
+}
+.box-area>li:nth-child(6){
+  animation-delay: 3.5s;
+}
