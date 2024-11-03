@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/meshcraft/static/css/main.d8676065.css",
-    "main.js": "/meshcraft/static/js/main.959e7a67.js",
+    "main.css": "/meshcraft/static/css/main.72b4b62f.css",
+    "main.js": "/meshcraft/static/js/main.55d8af2e.js",
     "static/js/453.30e0552f.chunk.js": "/meshcraft/static/js/453.30e0552f.chunk.js",
     "static/media/Blender.png": "/meshcraft/static/media/Blender.d11436acde200fa5e2c2.png",
     "static/media/Santer.png": "/meshcraft/static/media/Santer.906830a7229ebc9df410.png",
@@ -16,12 +16,12 @@
     "static/media/Unity3D.png": "/meshcraft/static/media/Unity3D.0afbb1a6657197403235.png",
     "static/media/Horizontalwithbgsmall.png": "/meshcraft/static/media/Horizontalwithbgsmall.7b9fd5d990b76841dd1d.png",
     "index.html": "/meshcraft/index.html",
-    "main.d8676065.css.map": "/meshcraft/static/css/main.d8676065.css.map",
-    "main.959e7a67.js.map": "/meshcraft/static/js/main.959e7a67.js.map",
+    "main.72b4b62f.css.map": "/meshcraft/static/css/main.72b4b62f.css.map",
+    "main.55d8af2e.js.map": "/meshcraft/static/js/main.55d8af2e.js.map",
     "453.30e0552f.chunk.js.map": "/meshcraft/static/js/453.30e0552f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8676065.css",
-    "static/js/main.959e7a67.js"
+    "static/css/main.72b4b62f.css",
+    "static/js/main.55d8af2e.js"
   ]
 }
