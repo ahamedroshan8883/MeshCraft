@@ -144,7 +144,7 @@ window.addEventListener("scroll",handleNavBackground);
                     </ul>
             </nav>
           <div>
-          <ul className="navIcons text-white absolute sm:static top-0 right-0 py-4 list-none flex items-center gap-5" ref={navIconsRef} >
+          <ul className="navIcons text-white absolute sm:static top-0 right-2 py-4 list-none flex items-center gap-5" ref={navIconsRef} >
                         <li ><FaSearch className="bg-gradient-to-r from-[#2b006f] to-[#f56f49] bg-clip-text "/></li>
                         <li>
                           <button onClick={()=>{toggleDropdown();console.log(isOpenDD);
