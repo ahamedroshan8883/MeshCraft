@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/meshcraft/static/css/main.72b4b62f.css",
-    "main.js": "/meshcraft/static/js/main.55d8af2e.js",
+    "main.css": "/meshcraft/static/css/main.989693c1.css",
+    "main.js": "/meshcraft/static/js/main.e3d67242.js",
     "static/js/453.30e0552f.chunk.js": "/meshcraft/static/js/453.30e0552f.chunk.js",
     "static/media/Blender.png": "/meshcraft/static/media/Blender.d11436acde200fa5e2c2.png",
     "static/media/Santer.png": "/meshcraft/static/media/Santer.906830a7229ebc9df410.png",
@@ -12,16 +12,19 @@
     "static/media/4-removebg-preview.png": "/meshcraft/static/media/4-removebg-preview.1eb60f36ccae0650f91a.png",
     "static/media/3-removebg-preview.png": "/meshcraft/static/media/3-removebg-preview.2fe39be97f0cb888a972.png",
     "static/media/5-removebg-preview.png": "/meshcraft/static/media/5-removebg-preview.0e6f9fb3146e09c4d1d5.png",
+    "static/media/8-removebg-preview.png": "/meshcraft/static/media/8-removebg-preview.f3bb350f11833b6a6137.png",
     "static/media/UnrealEngine.png": "/meshcraft/static/media/UnrealEngine.e42f0a63fecfcba409cd.png",
     "static/media/Unity3D.png": "/meshcraft/static/media/Unity3D.0afbb1a6657197403235.png",
     "static/media/Horizontalwithbgsmall.png": "/meshcraft/static/media/Horizontalwithbgsmall.7b9fd5d990b76841dd1d.png",
+    "static/media/7-removebg-preview.png": "/meshcraft/static/media/7-removebg-preview.bac44c2379a82f818dc3.png",
+    "static/media/9-removebg-preview.png": "/meshcraft/static/media/9-removebg-preview.5195b5b6465f6dc00718.png",
     "index.html": "/meshcraft/index.html",
-    "main.72b4b62f.css.map": "/meshcraft/static/css/main.72b4b62f.css.map",
-    "main.55d8af2e.js.map": "/meshcraft/static/js/main.55d8af2e.js.map",
+    "main.989693c1.css.map": "/meshcraft/static/css/main.989693c1.css.map",
+    "main.e3d67242.js.map": "/meshcraft/static/js/main.e3d67242.js.map",
     "453.30e0552f.chunk.js.map": "/meshcraft/static/js/453.30e0552f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72b4b62f.css",
-    "static/js/main.55d8af2e.js"
+    "static/css/main.989693c1.css",
+    "static/js/main.e3d67242.js"
   ]
 }
